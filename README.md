@@ -15,8 +15,7 @@ Lasso Regression
 Elastic Net Regression
 
 ### Deployment
-The final model was deployed using Flask, allowing for easy and efficient prediction of FWI based on input attributes such as temperature, relative humidity (RH), wind speed (Ws), and rain. Additionally, the project has been deployed on Amazon Web Services (AWS) to ensure scalability and accessibility.
-### How to Use / Run
+The final model was deployed using Flask, allowing for easy and efficient prediction of FWI based on input attributes such as temperature, relative humidity (RH), wind speed (Ws), and rain. Additionally, I have learned how to deploy the project on Amazon Web Services (AWS) to ensure scalability and accessibility.
 Clone the repository.
 
 Install the necessary dependencies listed in requirements.txt.
